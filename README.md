@@ -1,12 +1,21 @@
-# Awesome-311-Citizen-Request-Management
+# Awesome 311 Citizen Request Management 🏙️
 
 ![Awesome 311 Citizen Request Management Banner](assets/banner.svg)
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> A curated list of awesome 311 Citizen Request Management platforms, municipal service request systems, non-emergency issue reporting tools, and open-source civic CRM solutions.
+
+### 🔍 GovTech SEO Keywords
+`Civic Tech` • `Municipal CRM` • `Open311 GeoReport API` • `Non-Emergency Issue Reporting` • `Local Government Software` • `Smart City Apps` • `Open-Source 311` • `Pothole & Streetlight Reporting` • `GovTech Solutions`
+
+---
 
 ## 🏛️ Similar Projects to 311 Citizen Request Management Platforms
 
 **311 Citizen Request Management** 🏙️ (also called municipal service request, non-emergency issue reporting, or civic CRM systems) enables residents to report problems such as potholes 🕳️, broken streetlights 💡, graffiti 🎨, and other public-space issues, while giving city staff tools for intake, routing, tracking, field work, and public status updates. Leading commercial tools include SeeClickFix, Cityworks, OpenGov Citizen Services, QScend, Accela CRM, Neighborly Software, Rock Solid Technologies, CitySourced, MyCivic, and Request Tracker Pro.
 
 Below is a **curated list** 📚 of notable platforms and their open-source equivalents. The emphasis is on **open-source** 🔓 solutions that support map-based reporting, Open311 compatibility, workflow management, and self-hosting so municipalities can retain full control of citizen data.
+
 
 ## 🏢 SaaS / Hosted Platforms
 
