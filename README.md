@@ -26,23 +26,24 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🔓 Open-Source Software
 
 ### Dedicated 311 / Civic Request Platforms
-- **[FixMyStreet](https://github.com/mysociety/fixmystreet)** (mySociety) — The classic open-source platform for reporting local problems to authorities. Supports map-based reporting, photo uploads, email/SMS notifications, and Open311. Widely deployed and actively maintained (AGPL).
-- **[Mark-a-Spot](https://www.mark-a-spot.com/)** — Modern open-source Open311/GeoReport v2 platform built on Drupal + Nuxt. Features map reporting, AI-assisted categorization and duplicate detection, staff workflows, crisis mode, and full self-hosting (GPL components). Strong European municipal adoption.
-- **[GovFlow](https://github.com/govflow/govflow)** — Open-source, modular request and work-order management system designed for local government. Supports 311 requests, multi-channel intake, analytics dashboards, and Open311 compatibility (MIT).
+- **[FixMyStreet](https://github.com/mysociety/fixmystreet)** [![Stars](https://img.shields.io/github/stars/mysociety/fixmystreet?style=social&color=white)](https://github.com/mysociety/fixmystreet/stargazers) (mySociety) — The classic open-source platform for reporting local problems to authorities. Supports map-based reporting, photo uploads, email/SMS notifications, and Open311. Widely deployed and actively maintained (AGPL).
+- **[uReport](https://github.com/City-of-Bloomington/uReport)** [![Stars](https://img.shields.io/github/stars/City-of-Bloomington/uReport?style=social&color=white)](https://github.com/City-of-Bloomington/uReport/stargazers) — Issue tracking and constituent relationship management system with an Open311 endpoint, developed by the City of Bloomington for smaller municipalities (AGPL).
+- **[GovFlow](https://github.com/govflow/govflow)** [![Stars](https://img.shields.io/github/stars/govflow/govflow?style=social&color=white)](https://github.com/govflow/govflow/stargazers) — Open-source, modular request and work-order management system designed for local government. Supports 311 requests, multi-channel intake, analytics dashboards, and Open311 compatibility (MIT).
+- **[OpenCiRM](https://github.com/sharegov/opencirm)** [![Stars](https://img.shields.io/github/stars/sharegov/opencirm?style=social&color=white)](https://github.com/sharegov/opencirm/stargazers) — Open-source Citizen Relationship Management platform originally supporting Miami-Dade County 311. Metadata-driven and designed for government service call centers.
+- **[Mark-a-Spot](https://github.com/markaspot/mark-a-spot)** [![Stars](https://img.shields.io/github/stars/markaspot/mark-a-spot?style=social&color=white)](https://github.com/markaspot/mark-a-spot/stargazers) — Modern open-source Open311/GeoReport v2 platform built on Drupal + Nuxt. Features map reporting, AI-assisted categorization and duplicate detection, staff workflows, crisis mode, and full self-hosting (GPL components). Strong European municipal adoption.
+- **[Libre311](https://github.com/UnityFoundation-io/Libre311)** [![Stars](https://img.shields.io/github/stars/UnityFoundation-io/Libre311?style=social&color=white)](https://github.com/UnityFoundation-io/Libre311/stargazers) — Open-source web application for municipal service requests built directly on the Open311 GeoReport v2 standard. Includes public map/list views, admin dashboard, and REST API.
 - **[Pinpoint 311](https://pinpoint311.org/)** — Free, open-source (MIT) municipal reporting software focused on low-cost self-hosting, automatic routing, multi-language support, and Open311 compliance. Aimed at small-to-medium towns.
-- **[Libre311](https://github.com/UnityFoundation-io/Libre311)** — Open-source web application for municipal service requests built directly on the Open311 GeoReport v2 standard. Includes public map/list views, admin dashboard, and REST API.
-- **[uReport](https://github.com/City-of-Bloomington/uReport)** — Issue tracking and constituent relationship management system with an Open311 endpoint, developed by the City of Bloomington for smaller municipalities (AGPL).
-- **[OpenCiRM](https://github.com/sharegov/opencirm)** — Open-source Citizen Relationship Management platform originally supporting Miami-Dade County 311. Metadata-driven and designed for government service call centers.
 
 ### Broader Civic & Municipal Platforms
-- **[Lutece](https://lutece.paris.fr/en)** (City of Paris) — Long-standing open-source municipal service platform with CRM and “Dans ma Rue” (In My Street) modules for public-space incident reporting and field workflow.
+- **[Lutece](https://github.com/lutece-platform/lutece-core)** [![Stars](https://img.shields.io/github/stars/lutece-platform/lutece-core?style=social&color=white)](https://github.com/lutece-platform/lutece-core/stargazers) (City of Paris) — Long-standing open-source municipal service platform with CRM and “Dans ma Rue” (In My Street) modules for public-space incident reporting and field workflow.
 - **Open311** itself — The open standard (GeoReport v2) that many of the above systems implement. Enables interoperable citizen reporting apps and backend systems.
 
 ### General Open-Source Helpdesk / Ticketing (Adaptable for 311)
-- **[Zammad](https://github.com/zammad/zammad)** — Modern open-source helpdesk with multi-channel support, useful as a foundation for internal request handling.
-- **[FreeScout](https://github.com/freescout-helpdesk/freescout)** — Lightweight open-source shared inbox and helpdesk.
-- **[osTicket](https://github.com/osTicket/osTicket)** — Classic open-source support ticket system that some municipalities adapt for service requests.
-- **[GLPI](https://github.com/glpi-project/glpi)** — Open-source ITSM and asset management platform that can be extended for municipal work orders.
+- **[GLPI](https://github.com/glpi-project/glpi)** [![Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) — Open-source ITSM and asset management platform that can be extended for municipal work orders.
+- **[FreeScout](https://github.com/freescout-helpdesk/freescout)** [![Stars](https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white)](https://github.com/freescout-helpdesk/freescout/stargazers) — Lightweight open-source shared inbox and helpdesk.
+- **[osTicket](https://github.com/osTicket/osTicket)** [![Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers) — Classic open-source support ticket system that some municipalities adapt for service requests.
+- **[Zammad](https://github.com/zammad/zammad)** [![Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) — Modern open-source helpdesk with multi-channel support, useful as a foundation for internal request handling.
+
 
 ### Typical Open-Source Stack
 Many cities combine:
