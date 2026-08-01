@@ -8,16 +8,19 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[SeeClickFix](https://www.seeclickfix.com/)** (CivicPlus) — Popular resident-facing 311 CRM focused on simple mobile reporting, photo uploads, map views, and transparent issue tracking for local governments.
-- **[Cityworks](https://www.cityworks.com/)** (Trimble) — GIS-centric asset and work management system built on Esri ArcGIS, widely used for infrastructure work orders and 311 service requests.
-- **[OpenGov Citizen Services](https://opengov.com/)** — Government operations platform that includes citizen request intake, routing, and performance reporting.
-- **[QScend / QAlert](https://www.qscend.com/)** — Citizen request and incident management software used by municipalities for service tracking and notifications.
-- **[Accela CRM / Civic Platform](https://www.accela.com/)** — Broad civic services suite covering permitting, licensing, inspections, and service request management.
-- **[Neighborly Software](https://neighborlysoftware.com/)** — Community and municipal software that includes request and engagement features.
-- **[Rock Solid Technologies](https://www.rocksolid.com/)** — Public-sector technology solutions including citizen service and request management tools.
-- **[CitySourced](https://www.citysourced.com/)** (now part of Granicus OneView) — Mobile-first civic reporting and engagement platform.
-- **[MyCivic](https://mycivicapps.com/)** — Citizen engagement and service request applications for local government.
-- **[Request Tracker Pro](https://www.bestpractical.com/)** and related commercial offerings — Enterprise request-tracking solutions sometimes adapted for municipal use.
+| Platform | Description | Pricing | Free Tier / Limit |
+|---|---|---|---|
+| **[SeeClickFix](https://www.seeclickfix.com/)** (CivicPlus) | Popular resident-facing 311 CRM focused on simple mobile reporting, photo uploads, map views, and transparent issue tracking for local governments. | Custom quote / subscription (311 CRM Starter Package available for small teams). | No free tier for municipalities (residents can use the reporting tools for free). |
+| **[Cityworks](https://www.cityworks.com/)** (Trimble) | GIS-centric asset and work management system built on Esri ArcGIS, widely used for infrastructure work orders and 311 service requests. | Custom quote based on deployment scope and modules. | No free tier. |
+| **[OpenGov Citizen Services](https://opengov.com/)** | Government operations platform that includes citizen request intake, routing, and performance reporting. | Custom quote / subscription based on agency size and modules. | No free tier. |
+| **[QScend / QAlert](https://www.qscend.com/)** | Citizen request and incident management software used by municipalities for service tracking and notifications. | Custom quote / contract-based. | No free tier. |
+| **[Accela CRM / Civic Platform](https://www.accela.com/)** | Broad civic services suite covering permitting, licensing, inspections, and service request management. | Custom quote based on agency size and transaction volumes. | No free tier. |
+| **[Neighborly Software](https://neighborlysoftware.com/)** | Community and municipal software that includes request and engagement features. | Custom quote / subscription (contract sizes typically range from $12,000 to $60,000+/year). | No free tier. |
+| **[Rock Solid Technologies](https://www.rocksolid.com/)** | Public-sector technology solutions including citizen service and request management tools. | Custom quote / contract-based. | No free tier. |
+| **[CitySourced](https://www.citysourced.com/)** (now part of Granicus OneView) | Mobile-first civic reporting and engagement platform. | Custom quote / contract-based. | No free tier. |
+| **[MyCivic](https://mycivicapps.com/)** | Citizen engagement and service request applications for local government. | Custom quote / contract-based. | No free tier. |
+| **[Request Tracker Pro](https://www.bestpractical.com/)** | Enterprise request-tracking solutions sometimes adapted for municipal use. | Cloud hosting plans start at ~$15 to $39+ per user/month. | Free self-hosted open-source version (no user limits, but requires own infrastructure and maintenance). |
+
 
 ## 🔓 Open-Source Software
 
